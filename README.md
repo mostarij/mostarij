@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mostarij/mostarij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🌟 Mostarij - 🤖 Generative AI Pioneer 📚 Certified Red Hat Architect | ☁️ Expert in OpenShift, Kubernetes & Platform Engineering | 🎓 Mentor & Trainer
+# 🌟 Mostarij - Architect, Technical Leader & Innovator
+
+> 🤖 Generative AI Pioneer 📚 RHCA | ☁️ Expert in OpenShift, Kubernetes & Platform Engineering | 🎓 Mentor & Trainer
 
 ## 🚀 About Me
 
